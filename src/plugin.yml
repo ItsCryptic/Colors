@@ -1,0 +1,6 @@
+name: Colors
+main: org.vibemarket.Main.Main
+author: ItsCryptic
+version: 1.0
+commands:
+  colors:
